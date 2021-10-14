@@ -1,9 +1,8 @@
-
 <div align="center">
-<img width="100%" height = "250px" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="cover" />
+<img width="100%" height = "500px" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hola Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shakunt1202.shakunt1202)
@@ -14,7 +13,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" />
+<img width="55%" align="right" alt="Github" src="https://media1.giphy.com/media/eVSqI3mZYfaDIXYsnS/giphy.gif" />
 
 
 - 🔭 I’m currently working on Suraksha - A 2 Factor authentication system
@@ -69,9 +68,8 @@
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gruvbox)
 
 
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+
 # shakunt1202
