@@ -2,14 +2,12 @@
 <img width="100%" height = "300px" src="https://miro.medium.com/max/1024/1*sAOwviBq014-97ZzEJ0wAw.png" alt="cover" />
 </div>
 
-<h1 align="center"> Welcom to Shriraj Shakunt's Github <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align="center"> Welcome to Shriraj Shakunt's Github <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F70000&lines=Hola+Fellow+%3C+Developers%2F+%3E+!+!;I+am+a+devops++intern+%40CRMNEXT;Always+Learning+New+things)](https://git.io/typing-svg)2)
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F70000&lines=Hola+Fellow+%3C+Developers%2F+%3E+!+!;Devops++intern+%40CRMNEXT;Always+Learning+New+things;Thank+You+for+taking+time;to+view+my+GitHub+Profile.;%F0%9F%98%84"></a>
 </p>
-<div size='20px'> Hi! My name is Shriraj shakunt. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
