@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "300px" src="https://miro.medium.com/max/1024/1*sAOwviBq014-97ZzEJ0wAw.png" alt="cover" />
+<img width="100%" height = "300px" src="https://braydoncoyer.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fbraydoncoyer%2Fimage%2Fupload%2Fv1642953750%2Fglowing_gradient_background_tailwind_banner.jpg&w=1200&q=75" alt="cover" />
 </div>
 
 <h1 align="center"> Welcome to Shriraj Shakunt's Github <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
