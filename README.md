@@ -2,8 +2,7 @@
 <img width="100%" height = "300px" src="https://miro.medium.com/max/1024/1*sAOwviBq014-97ZzEJ0wAw.png" alt="cover" />
 </div>
 
-<h1> Hola Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h1 align="center"> Welcom to Shriraj Shakunt's Github <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shakunt1202.shakunt1202)
 
