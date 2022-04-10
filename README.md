@@ -49,6 +49,11 @@
         height="160em"
         src="https://github-readme-streak-stats.herokuapp.com/?user=shakunt1202&theme=dark&hide_border=true"
       />
+  <img
+        height="500cm"
+        src="https://activity-graph.herokuapp.com/graph?username=shakunt1202&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"
+      />
+  </p>
       
     
 ## 🏆GitHub Trophies
