@@ -15,7 +15,7 @@
    [![Dev to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/shakunt)
 <h2> About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="https://media1.giphy.com/media/eVSqI3mZYfaDIXYsnS/giphy.gif" />
+[//]: <img width="55%" align="right" alt="Github" src="https://media1.giphy.com/media/eVSqI3mZYfaDIXYsnS/giphy.gif" />
 
 
 - 🔭 I’m currently working on Suraksha - A 2 Factor authentication system
