@@ -53,6 +53,10 @@
         height="500cm"
         src="https://activity-graph.herokuapp.com/graph?username=shakunt1202&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"
       />
+  <img
+        width="750em"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=Shriraj_shakunt&hide_border=true&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true&custom_title=Last+Week+be+like+;)&title_color=ffffff&layout=compact"
+      />
   </p>
       
     
