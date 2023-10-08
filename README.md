@@ -5,7 +5,7 @@
 <h1 align="center"> Welcome to Shriraj Shakunt's Github <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F70000&lines=Hola+Fellow+%3C+Developers%2F+%3E+!+!;Devops++intern+%40CRMNEXT;Always+Learning+New+things;Thank+You+for+taking+time;to+view+my+GitHub+Profile.;%F0%9F%98%84"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F70000&lines=Hola+Fellow+%3C+Developers%2F+%3E+!+!;Devops++Engineer+%40CRMNEXT;Always+Learning+New+things;Thank+You+for+taking+time;to+view+my+GitHub+Profile.;%F0%9F%98%84"></a>
 </p>
 
 ## 🌐Socials
